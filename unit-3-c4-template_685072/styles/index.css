@@ -1,0 +1,36 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#search_input{
+    width: 80%;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 0px 30px;
+   
+ 
+}
+#box{
+    display: flex;
+    justify-content:space-between;
+    gap: 60px;
+}
+#results .news{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 30px;
+}
+
+#results img{
+    width: 30%;
+}
+
+#sidebar{
+    text-align: center;
+}
+
+
+
